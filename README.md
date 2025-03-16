@@ -25,12 +25,13 @@ ericksm.electronica@gmail.com
 ### Support My Work 💖
 If you find this project useful, consider supporting me:
 
-[💰 Donate via PayPal](https://paypal.me/LaElectronicaAplicad)  
+[💰 Donate via PayPal](https://paypal.me/LaElectronicaAplicad)   
 
+Watch the explanation and demonstration video on YouTube by clicking the image!
 
 [![Texto alternativo](https://img.youtube.com/vi/qekGmXMEP9A/maxresdefault.jpg)](https://www.youtube.com/watch?v=qekGmXMEP9A)
 
-Watch the explanation and demonstration video on YouTube by clicking the image!
+
 
 ### Licenses
 This project is licensed under the **MIT License** (see `LICENSE`).  
