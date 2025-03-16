@@ -17,7 +17,7 @@ This project can be opened with PlatformIO and works very well. The project uses
 The TFT uses an SPI interface with an 8MHz data clock. The TFT used in this project has a resolution of 480x320 pixels, a 4-inch screen, and uses the ST7796 driver with 16 bits per pixel. 
 This TFT requires commands and parameters for initial configuration, after which the screen can be used normally.
 
-[![Texto alternativo](https://img.youtube.com/vi/eTEYG0FsEEo/maxresdefault.jpg)](https://www.youtube.com/watch?v=eTEYG0FsEEo)
+[![Texto alternativo](https://img.youtube.com/vi/qekGmXMEP9A/maxresdefault.jpg)](https://www.youtube.com/watch?v=qekGmXMEP9A)
 
 Watch the explanation and demonstration video on YouTube by clicking the image!
 
