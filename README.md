@@ -18,6 +18,15 @@ More than 1,000 records were successfully stored!
 ### Data processing and graphics obtained
 For easy manipulation and processing of data, the text file on the SD card was converted to a CSV file. Then, this file was uploaded into Python using Jupyter Notebook. To obtain the charge curve graphs, Matplotlib, Pandas, and NumPy were used.
 
+### Support My Work 💖
+If you find this project useful, consider supporting me:
+
+[💰 Donate via PayPal](https://paypal.me/LaElectronicaAplicad)  
+
+### Contact
+For business inquiries, contact me at: 
+ericksm.electronica@gmail.com
+
 [![Texto alternativo](https://img.youtube.com/vi/qekGmXMEP9A/maxresdefault.jpg)](https://www.youtube.com/watch?v=qekGmXMEP9A)
 
 Watch the explanation and demonstration video on YouTube by clicking the image!
@@ -26,15 +35,5 @@ Watch the explanation and demonstration video on YouTube by clicking the image!
 This project is licensed under the **MIT License** (see `LICENSE`).  
 It uses **Petit FATFS**, which is licensed under the **BSD-2-Clause License**.  
 The license and documentation for Petit FATFS can be found in `program/Datalogger.X/LICENSE.txt` and `program/Datalogger.X/00readme.txt`
-
-### Support My Work 💖
-If you find this project useful, consider supporting me:
-
-[💰 Donate via PayPal](https://paypal.me/LaElectronicaAplicad)  
-
-
-### Contact
-For business inquiries, contact me at: 
-ericksm.electronica@gmail.com
 
 Background image from Freepik
