@@ -8,10 +8,11 @@ The datalogger measures the voltage and current from a lithium battery charger u
       
 
 ### Mplab X IDE Project
-The code of the project can be opened with Mplab X IDE and works very well. The project uses the libraries: Petit Fafts and softUart.
+The project in the **program** directory: 'Datalogger.X' can be opened with MPLAB X IDE and functions perfectly. Version 6.20 of the IDE was used.
 
 ### SD CARD library aspects
-The most popular library for managing file operations on an SD card is FatFs. However, in this case, using the PIC16F1847, it is necessary to use the lightweight version of this library, the Petit FatFs library. This library has limitations, but the functionalities that were tested are sufficient for this project. The library must be ported to the PIC. For this purpose, I used the examples provided by the library.   
+The most popular library for managing file operations on an SD card is FatFs. However, in this case, using the PIC16F1847, it is necessary to use the lightweight version of this library, the Petit FatFs library. This library has limitations, but the functionalities that were tested are sufficient for this project. The library must be ported to the PIC, for this purpose, I used the examples provided by the library.   
+
 More than 1,000 records were successfully stored!
 
 ### Data processing and graphics obtained
