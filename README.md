@@ -27,7 +27,7 @@ This project is licensed under the **MIT License** (see `LICENSE`).
 It uses **Petit FATFS**, which is licensed under the **BSD-2-Clause License**.  
 The license and documentation for Petit FATFS can be found in `program/Datalogger.X/LICENSE.txt` and `program/Datalogger.X/00readme.txt`
 
-## Support My Work 💖
+### Support My Work 💖
 If you find this project useful, consider supporting me:
 
 [💰 Donate via PayPal](https://paypal.me/LaElectronicaAplicad)  
