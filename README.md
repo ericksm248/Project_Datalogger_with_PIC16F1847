@@ -1,7 +1,7 @@
 <h1 align="center">Datalogger with the PIC16F1847 and SD card</h1>
 <br>
 
-This project uses Ngrok to make a local web server accessible on the internet. The web interface was created with HTML, CSS, and JavaScript, which is programmed on the ESP32. The web server uses HTTP GET and POST methods to interact with it.
+In this project i use the PIC16F1847 and an SD card. This datalogger register the voltage and current from a lihtium battery charger
 
 ## How does it work?
 
@@ -10,10 +10,10 @@ Anyone in the world can send a message using the web server on the ESP32, and th
 The code on the ESP32 allows multiple connections and transfers data emulating **concurrency** thanks to the AsyncTCP library.
 We have 3 pages, each containing 10 messages. New messages replace the old ones. You can switch between pages by pressing a button. The new messages always appear at the top of page 1, with older messages arranged consecutively below.
 
-### Platformio Project
-This project can be opened with PlatformIO and works very well. The project uses the libraries: ESPAsyncWebServer, AsyncTCP, and WiFi. For the TFT, I use the library from LCDWiki but have applied some custom modifications to it, adding new functions developed by me.
+### Mplab X IDE Project
+The code of the project can be opened with Mplab X IDE and works very well. The project uses the libraries: Petit Fafts , and softUart.
 
-### TFT features
+### SD CARD library aspects
 The TFT uses an SPI interface with an 8MHz data clock. The TFT used in this project has a resolution of 480x320 pixels, a 4-inch screen, and uses the ST7796 driver with 16 bits per pixel. 
 This TFT requires commands and parameters for initial configuration, after which the screen can be used normally.
 
