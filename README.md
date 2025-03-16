@@ -22,5 +22,10 @@ For easy manipulation and processing of data, the text file on the SD card was c
 
 Watch the explanation and demonstration video on YouTube by clicking the image!
 
+## Licenses
+
+This project is licensed under the **MIT License** (see `LICENSE`).  
+It uses **Petit FATFS**, which is licensed under the **BSD-2-Clause License**.  
+The license and documentation for Petit FATFS can be found in `program/Datalogger.X/LICENSE.txt` and `program/Datalogger.X/00readme.txt`
 
 Background image from Freepik
