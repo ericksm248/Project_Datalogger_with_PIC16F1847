@@ -1,3 +1,3 @@
 ### You can load this project in Mplab X IDE
 
-### I used the 6.20 version
+### This project was developed with version 6.20 of MPLAB X
