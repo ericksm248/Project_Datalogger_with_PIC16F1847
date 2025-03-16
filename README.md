@@ -11,8 +11,8 @@ The datalogger measures the voltage and current from a lithium battery charger u
 The code of the project can be opened with Mplab X IDE and works very well. The project uses the libraries: Petit Fafts and softUart.
 
 ### SD CARD library aspects
-The most popular library to manage the files operations in sd card is FatFs but in this case, using the PIC16F1847, is necesarry to take the ligth version of this library, the Petit Fafts library.
-This library have limitations but the functionalitys that probed is enough for this project. More than 1,000 records were successfully stored!
+The most popular library for managing file operations on an SD card is FatFs. However, in this case, using the PIC16F1847, it is necessary to use the lightweight version of this library, the Petit FatFs library. This library has limitations, but the functionalities that were tested are sufficient for this project. 
+More than 1,000 records were successfully stored!
 
 ### Data processing and graphics obtained
 
