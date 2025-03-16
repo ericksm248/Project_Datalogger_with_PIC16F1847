@@ -16,7 +16,7 @@ The most popular library for managing file operations on an SD card is FatFs. Ho
 More than 1,000 records were successfully stored!
 
 ### Data processing and graphics obtained
-
+For easy manipulation and processing of data, the text file on the SD card was converted to a CSV file. Then, this file was uploaded into Python using Jupyter Notebook. To obtain the charge curve graphs, Matplotlib, Pandas, and NumPy were used.
 
 [![Texto alternativo](https://img.youtube.com/vi/qekGmXMEP9A/maxresdefault.jpg)](https://www.youtube.com/watch?v=qekGmXMEP9A)
 
