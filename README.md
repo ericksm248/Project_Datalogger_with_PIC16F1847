@@ -1,4 +1,4 @@
-<h1 align="center">Public Web Server with ESP32</h1>
+<h1 align="center">Datalogger with the PIC16F1847 </h1>
 <br>
 
 This project uses Ngrok to make a local web server accessible on the internet. The web interface was created with HTML, CSS, and JavaScript, which is programmed on the ESP32. The web server uses HTTP GET and POST methods to interact with it.
@@ -22,4 +22,4 @@ This TFT requires commands and parameters for initial configuration, after which
 Watch the explanation and demonstration video on YouTube by clicking the image!
 
 
-Background image by vecstock from Freepik
+Background image from Freepik
