@@ -1,4 +1,4 @@
-<h1 align="center">Datalogger with the PIC16F1847 </h1>
+<h1 align="center">Datalogger with the PIC16F1847 and SD card</h1>
 <br>
 
 This project uses Ngrok to make a local web server accessible on the internet. The web interface was created with HTML, CSS, and JavaScript, which is programmed on the ESP32. The web server uses HTTP GET and POST methods to interact with it.
